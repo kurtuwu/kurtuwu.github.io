@@ -1,0 +1,9 @@
+body {
+    background-color: lightsalmon;
+}
+
+header {
+    color: darksalmon;
+    font-family: "Onyx";
+    font-size: 40px;
+    border-style: dotted
